@@ -1,6 +1,6 @@
 # MiniSpotify
 
-A full-stack music streaming demo: Android app (Jetpack Compose) + Ktor backend in a single monorepo.
+A full-stack music streaming mobile app: Android app (Jetpack Compose) + Ktor backend. Achieved core functionalities of Spotify with lightweighted codes.
 
 ---
 
