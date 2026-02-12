@@ -83,3 +83,14 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Spotify backend (Ktor / JVM) - build and IDE
+spotify_backend/.gradle/
+spotify_backend/build/
+spotify_backend/bin/
+spotify_backend/out/
+spotify_backend/local.properties
+spotify_backend/.idea/
+spotify_backend/*.iml
+# Nested git from prior repo - treat backend as part of monorepo
+spotify_backend/.git/
